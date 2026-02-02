@@ -1,8 +1,6 @@
 # Samuel Leung
 
-- Licensed Pharmacist in Ontario with over 10 years of retail pharmacy experience
-- CS Student
-- Aspiring healthcare tech developer
+Pharmacist | CS Student | Healthcare Technology
 
 ## Education
 
