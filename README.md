@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<h1>Samuel Leung</h1>
+
+Licensed Pharmacist in Ontario with over 10 years of retail experience
+CS Student
+Aspiring developer
+
+UBC • 2008-2009 • BSc (Year 1 of 4 Completed)
+UofT • 2009-2013 • Bachelor of Science in Pharmacy
+Thompson Rivers University (TRU) • 2023- • Bachelor of Computing Science (In Progress)
+
+</div>
