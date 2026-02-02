@@ -1,30 +1,16 @@
-## Hi there 👋
+# Samuel Leung
 
-<!--
-**zeptotech/zeptotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Licensed Pharmacist in Ontario with over 10 years of retail pharmacy experience
+- CS Student
+- Aspiring healthcare tech developer
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**University of British Columbia** • 2008-2009  
+Bachelor of Science (Year 1 of 4 Completed)
 
-<div align="center">
+**University of Toronto** • 2009-2014  
+Bachelor of Science in Pharmacy
 
-<h1>Samuel Leung</h1>
-
-Licensed Pharmacist in Ontario with over 10 years of retail experience
-CS Student
-Aspiring developer
-
-UBC • 2008-2009 • BSc (Year 1 of 4 Completed)
-UofT • 2009-2013 • Bachelor of Science in Pharmacy
-Thompson Rivers University (TRU) • 2023- • Bachelor of Computing Science (In Progress)
-
-</div>
+**Thompson Rivers University** • 2023–Present  
+Bachelor of Computing Science (In Progress)
