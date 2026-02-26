@@ -11,4 +11,4 @@ Bachelor of Science (Year 1 of 4 Completed)
 Bachelor of Science in Pharmacy
 
 **Thompson Rivers University** • 2023–Present  
-Bachelor of Computing Science (In Progress)
+Computing Science Diploma (In Progress)
