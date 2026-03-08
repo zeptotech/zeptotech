@@ -4,11 +4,9 @@ Pharmacist | CS Student | Healthcare Technology
 
 ## Education
 
-**University of British Columbia** • 2008-2009  
-Bachelor of Science (Year 1 of 4 Completed)
+**Thompson Rivers University** • 2023–Present  
+Computing Science Diploma (In Progress)
 
 **University of Toronto** • 2009-2014  
 Bachelor of Science in Pharmacy
 
-**Thompson Rivers University** • 2023–Present  
-Computing Science Diploma (In Progress)
