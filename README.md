@@ -1,6 +1,6 @@
 # Samuel Leung
 
-Pharmacist | CS Student | Healthcare Technology
+Pharmacist | CS Student
 
 ## Education
 
